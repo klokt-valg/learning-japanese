@@ -1,11 +1,11 @@
-# Hiragana(ひらがな)
+# Hiragana (ひらがな)
 
 ## Vowel
 
 <table>
     <tr>
         <th></th>
-        <th colspan="5">Hiragana(Romaji)</th>
+        <th colspan="5">Hiragana (Romaji)</th>
     </tr>
     <tr>
         <th></th>
@@ -17,11 +17,11 @@
     </tr>
     <tr>
         <th>A</th>
-        <td>あ(a)</td>
-        <td>い(i)</td>
-        <td>う(u)</td>
-        <td>え(e)</td>
-        <td>お(o)</td>
+        <td>あ (a)</td>
+        <td>い (i)</td>
+        <td>う (u)</td>
+        <td>え (e)</td>
+        <td>お (o)</td>
     </tr>
 </table>
 
@@ -31,7 +31,7 @@
 <table>
     <tr>
         <th></th>
-        <th colspan="5">Hiragana(Romaji)</th>
+        <th colspan="5">Hiragana (Romaji)</th>
     </tr>
     <tr>
         <th></th>
@@ -43,89 +43,89 @@
     </tr>
     <tr>
         <th>K</th>
-        <td>か(ka)</td>
-        <td>き(ki)</td>
-        <td>く(ku)</td>
-        <td>け(ke)</td>
-        <td>こ(ko)</td>
+        <td>か (ka)</td>
+        <td>き (ki)</td>
+        <td>く (ku)</td>
+        <td>け (ke)</td>
+        <td>こ (ko)</td>
     </tr>
     <tr>
         <th>S</th>
-        <td>さ(sa)</td>
-        <td>し(shi)</td>
-        <td>す(su)</td>
-        <td>せ(se)</td>
-        <td>そ(so)</td><td></td>
+        <td>さ (sa)</td>
+        <td>し (shi)</td>
+        <td>す (su)</td>
+        <td>せ (se)</td>
+        <td>そ (so)</td><td></td>
     </tr>
     <tr>
         <th>T</th>
-        <td>た(ta)</td>
-        <td>ち(chi)</td>
-        <td>つ(tsu)</td>
-        <td>て(te)</td>
-        <td>と(to)</td>
+        <td>た (ta)</td>
+        <td>ち (chi)</td>
+        <td>つ (tsu)</td>
+        <td>て (te)</td>
+        <td>と (to)</td>
     </tr>
     <tr>
         <th>N</th>
-        <td>な(na)</td>
-        <td>に(ni)</td>
-        <td>ぬ(nu)</td>
-        <td>ね(ne)</td>
-        <td>の(no)</td>
-        <td>ん(n)</td>
+        <td>な (na)</td>
+        <td>に (ni)</td>
+        <td>ぬ (nu)</td>
+        <td>ね (ne)</td>
+        <td>の (no)</td>
+        <td>ん (n)</td>
     </tr>
     <tr>
         <th>H</th>
-        <td>は(ha,wa)</td>
-        <td>ひ(hi)</td>
-        <td>ふ(fu)</td>
-        <td>へ(he)</td>
-        <td>ほ(ho)</td> 
+        <td>は (ha,wa)</td>
+        <td>ひ (hi)</td>
+        <td>ふ (fu)</td>
+        <td>へ (he)</td>
+        <td>ほ (ho)</td> 
     </tr>
     <tr>
         <th>M</th>
-        <td>ま(ma)</td>
-        <td>み(mi)</td>
-        <td>む(mu)</td>
-        <td>め(me)</td>
-        <td>も(mo)</td> 
+        <td>ま (ma)</td>
+        <td>み (mi)</td>
+        <td>む (mu)</td>
+        <td>め (me)</td>
+        <td>も (mo)</td> 
     </tr>
     <tr>
         <th>Y</th>
-        <td>や(ya)</td>
+        <td>や (ya)</td>
         <td></td>
-        <td>ゆ(yu)</td>
+        <td>ゆ (yu)</td>
         <td></td>
-        <td>よ(yo)</td> 
+        <td>よ (yo)</td> 
     </tr>
     <tr>
         <th>R</th>
-        <td>ら(ra)</td>
-        <td>り(ri)</td>
-        <td>る(ru)</td>
-        <td>れ(re)</td>
-        <td>ろ(ro)</td> 
+        <td>ら (ra)</td>
+        <td>り (ri)</td>
+        <td>る (ru)</td>
+        <td>れ (re)</td>
+        <td>ろ (ro)</td> 
     </tr>
     <tr>
         <th>W</th>
-        <td>わ(wa)</td>
+        <td>わ (wa)</td>
         <td></td>
         <td></td>
         <td></td>
-        <td>を(wo,o)</td> 
+        <td>を (wo,o)</td> 
     </tr>
 </table>
 
-## Voiced Consonants(Dakuon だくおん & Handakuon はんだくおん)
+## Voiced Consonants (Dakuon だくおん & Handakuon はんだくおん)
 
-### Dakuon(だくおん)
+### Dakuon (だくおん)
 
 You can add a small tenten (゛, two short dashes) to certain Hiragana characters to "voice" their consonant. This changes a hard, unvoiced sound (like 'k') into a softer, voiced sound (like 'g').
 
 <table>
     <tr>
         <th></th>
-        <th colspan="5">Hiragana(Romaji)</th>
+        <th colspan="5">Hiragana (Romaji)</th>
     </tr>
     <tr>
         <th></th>
@@ -137,54 +137,54 @@ You can add a small tenten (゛, two short dashes) to certain Hiragana character
     </tr>
     <tr>
         <th>G</th>
-        <td>が(ga)</td>
-        <td>ぎ(gi)</td>
-        <td>ぐ(gu)</td>
-        <td>げ(ge)</td>
-        <td>ご(go)</td>
+        <td>が (ga)</td>
+        <td>ぎ (gi)</td>
+        <td>ぐ (gu)</td>
+        <td>げ (ge)</td>
+        <td>ご (go)</td>
     </tr>
     <tr>
         <th>Z</th>
-        <td>ざ(za)</td>
-        <td>じ(ji)</td>
-        <td>ず(zu)</td>
-        <td>ぜ(ze)</td>
-        <td>ぞ(zo)</td>
+        <td>ざ (za)</td>
+        <td>じ (ji)</td>
+        <td>ず (zu)</td>
+        <td>ぜ (ze)</td>
+        <td>ぞ (zo)</td>
     </tr>
     <tr>
         <th>D</th>
-        <td>だ(da)</td>
-        <td>ぢ(ji)</td>
-        <td>づ(zu)</td>
-        <td>で(de)</td>
-        <td>ど(do)</td>
+        <td>だ (da)</td>
+        <td>ぢ (ji)</td>
+        <td>づ (zu)</td>
+        <td>で (de)</td>
+        <td>ど (do)</td>
     </tr>
     <tr>
         <th>B</th>
-        <td>ば(ba)</td>
-        <td>び(bi)</td>
-        <td>ぶ(bu)</td>
-        <td>べ(be)</td>
-        <td>ぼ(bo)</td>
+        <td>ば (ba)</td>
+        <td>び (bi)</td>
+        <td>ぶ (bu)</td>
+        <td>べ (be)</td>
+        <td>ぼ (bo)</td>
     </tr>
     <tr>
         <th>P</th>
-        <td>ぱ(pa)</td>
-        <td>ぴ(pi)</td>
-        <td>ぷ(pu)</td>
-        <td>ぺ(pe)</td>
-        <td>ぽ(po)</td>
+        <td>ぱ (pa)</td>
+        <td>ぴ (pi)</td>
+        <td>ぷ (pu)</td>
+        <td>ぺ (pe)</td>
+        <td>ぽ (po)</td>
     </tr>
 </table>
 
-### Handakuon(はんだくおん)
+### Handakuon (はんだくおん)
 
 You can also add a small maru (゜, a small circle) to the H-row characters to make them 'p' sounds.
 
 <table>
     <tr>
         <th></th>
-        <th colspan="5">Hiragana(Romaji)</th>
+        <th colspan="5">Hiragana (Romaji)</th>
     </tr>
     <tr>
         <th></th>
@@ -196,11 +196,11 @@ You can also add a small maru (゜, a small circle) to the H-row characters to m
     </tr>
     <tr>
         <th>P</th>
-        <td>ぱ(pa)</td>
-        <td>ぴ(pi)</td>
-        <td>ぷ(pu)</td>
-        <td>ぺ(pe)</td>
-        <td>ぽ(po)</td>
+        <td>ぱ (pa)</td>
+        <td>ぴ (pi)</td>
+        <td>ぷ (pu)</td>
+        <td>ぺ (pe)</td>
+        <td>ぽ (po)</td>
     </tr>
 </table>
 
