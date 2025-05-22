@@ -167,14 +167,6 @@ You can add a small tenten (゛, two short dashes) to certain Hiragana character
         <td>べ (be)</td>
         <td>ぼ (bo)</td>
     </tr>
-    <tr>
-        <th>P</th>
-        <td>ぱ (pa)</td>
-        <td>ぴ (pi)</td>
-        <td>ぷ (pu)</td>
-        <td>ぺ (pe)</td>
-        <td>ぽ (po)</td>
-    </tr>
 </table>
 
 ### Handakuon (はんだくおん)
