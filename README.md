@@ -1,8 +1,9 @@
-# learning-japanese
+# Japanese Learning
 
-My own cheat-sheet for learning japanese
+My notes of learning japanese
 
 ## Basics
 
 - [Hiragana(ひらがな)](./basics/hiragana.md)
 - [Katakana (カタカナ)](./basics/katakana.md)
+- [Grammar](./basics/grammar.md)
